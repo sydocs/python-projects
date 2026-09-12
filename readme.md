@@ -1,4 +1,3 @@
 # Python Projects
 
-A collection of Python projects in automation, applications, and data.
-
+This repository contains a collection of python projects.

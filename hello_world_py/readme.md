@@ -1,6 +1,6 @@
 # Hello World Python
 
-This script demonstrates the Python `print()` function.
+This script demonstrates the python `print()` function.
 
 ## How to run
 
