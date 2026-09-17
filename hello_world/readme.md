@@ -1,4 +1,4 @@
-# Hello World Python
+# Hello World
 
 This script demonstrates the python `print()` function.
 
