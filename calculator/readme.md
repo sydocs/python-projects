@@ -17,7 +17,7 @@ A calculator built with python and tkinter.
 
 <img src="calculator.png" alt="Calculator" width="200">
 
-## Run
+## How to run
 
 ```python
 python calculator.py
