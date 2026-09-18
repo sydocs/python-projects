@@ -5,7 +5,7 @@ This script demonstrates the python `print()` function.
 ## How to run
 
 ```python
-python3 hello_world.py
+python hello_world.py
 ```
 
 ## Result
